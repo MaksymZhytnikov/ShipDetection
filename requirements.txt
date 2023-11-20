@@ -1,0 +1,14 @@
+# Core libraries
+pandas==2.0.3
+numpy==1.26.2
+matplotlib==3.8.1
+
+# Machine Learning and Deep Learning libraries
+scikit-learn==1.3.2
+keras==2.15.0
+tensorflow==2.15.0
+streamlit==1.28.2
+
+# Image processing and visualization
+scikit-image==0.22.0
+Pillow==10.0.1
