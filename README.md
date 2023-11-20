@@ -20,7 +20,10 @@ pip install -r requirements.txt
 ## 💾 Data
 Dataset contains images with ships. Many images do not contain ships, and those that do may contain multiple ships. Ships within and across images may differ in size (sometimes significantly) and be located in open sea, at docks, marinas, etc.
 
-The `train_ship_segmentations_v2.csv` file provides the ground truth (in run-length encoding format) for the training images
+The `train_ship_segmentations_v2.csv` file provides the ground truth (in run-length encoding format) for the training images.
+
+You can download data [here](https://www.kaggle.com/competitions/airbus-ship-detection/data). 
+Place the downloaded data into the `data` folder.
 
 ## 👨🏻‍🎨 Data Exploration
 
