@@ -44,8 +44,8 @@ Callbacks are implemented to monitor and save the best model weights based on va
 
 ### 🚀 Start Training
 
-The model was trained on 5 epochs due to **lack of computing resources**.
-You can change the number of epochs and other hyperparameters to fit better model.
+The model architecture is very simple and was trained on 5 epochs due to **lack of computing resources**.
+You can add more layers, increase the number of filters and epochs, and change other hyperparameters to train a more accurate model.
 
 To train the model, run the following command:
 ```
